@@ -2,15 +2,12 @@
 .settings/
 .tmp/
 .upload-tmp/
+.vscode/
 
 node_modules/
 bower_modules/
 bower_components/
 
-events/
 build/
-coverage/
-ClientBin/
-
 
 npm-debug.log
