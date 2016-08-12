@@ -1,0 +1,23 @@
+{
+  "name": "SlideTotalLive",
+  "version": "0.0.1",
+  "description": "SlideTotalLive - SlideTotal Live Online!",
+  "authors": [],
+  "license": "UNLICENSED",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+
+  },
+  "dependencies": {
+
+  },
+  "overrides": {
+
+  }
+}

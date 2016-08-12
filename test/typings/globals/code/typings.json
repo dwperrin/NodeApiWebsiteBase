@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/garthk/lab-transform-typescript/master/typings-local/code.d.ts",
+    "raw": "github:garthk/lab-transform-typescript/typings-local/code.d.ts",
+    "typings": "https://raw.githubusercontent.com/garthk/lab-transform-typescript/master/typings-local/code.d.ts"
+  }
+}

@@ -1,0 +1,1 @@
+doskey nr=npm run -s $*

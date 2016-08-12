@@ -1,0 +1,16 @@
+.idea/
+.settings/
+.tmp/
+.upload-tmp/
+
+node_modules/
+bower_modules/
+bower_components/
+
+events/
+build/
+coverage/
+ClientBin/
+
+
+npm-debug.log
